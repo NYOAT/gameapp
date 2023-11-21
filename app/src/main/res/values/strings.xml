@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">game app</string>
     <string name="tv_msg">game_app</string>
-    <string name="et_msg">メールアドレス</string>
+    <string name="et_msg">mail address</string>
     <string name="bt_sign_in">メールアドレスでサインイン</string>
     <string name ="bt_Login">ログイン</string>
 </resources>
